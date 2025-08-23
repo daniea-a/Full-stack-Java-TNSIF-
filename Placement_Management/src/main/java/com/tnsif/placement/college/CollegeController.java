@@ -9,6 +9,7 @@ import java.util.List;
 @RequestMapping("/college")
 public class CollegeController {
 
+	
     @Autowired
     private CollegeService collegeService;
 
